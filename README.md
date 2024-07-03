@@ -1,4 +1,4 @@
-# Currency Exchange
+# Currency Converter
 
 Welcome to the Currency Exchange project repository! This project is a web application that allows users to convert currencies using real-time exchange rates. It is built using HTML, CSS, JavaScript, and the ExchangeRate-API.
 
@@ -20,7 +20,7 @@ Welcome to the Currency Exchange project repository! This project is a web appli
 
 ## Live Demo
 
-Check out the live demo of the application [here](https://soham0902.github.io/Currency_Exchange/).
+Check out the live demo of the application [here]( https://avanti1102.github.io/Currency_Converter/).
 
 ## API
 
@@ -31,12 +31,12 @@ This project uses the [ExchangeRate-API](https://www.exchangerate-api.com/) to f
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Soham0902/Currency_Exchange.git
+git clone https://github.com/Avanti1102/Currency_Converter.git
 ```
 2. Navigate to the project directory
 
 ```bash
-cd Currency_Exchange
+cd Currency_Converter
 ```
 3. Open index.html in your preferred web browser.
 
